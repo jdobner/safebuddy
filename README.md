@@ -19,7 +19,7 @@ Create a safe environment for using a supervised PC
 - Language: go
 - Possibility to use Lambda?
 - How would files upload to image storage
-### Storage
+### Image Storage
  - Use Google Photos or Drive?
  - Compression
  - Should we create a movie?
