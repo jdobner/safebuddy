@@ -24,7 +24,12 @@ Create a safe environment for using a supervised PC
  - Compression
  - Should we create a movie?
  - Retention / cleanup
+ ### Client
+ - Each client uniquely identified
+
+## Features
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MTQ1NjcxOCwxOTA3MTQwMzY3LC0xNj
-A4OTcyMzMsLTEyODY4MjQ5MDNdfQ==
+eyJoaXN0b3J5IjpbNTQ1MDMwNTQwLDE5MDcxNDAzNjcsLTE2MD
+g5NzIzMywtMTI4NjgyNDkwM119
 -->
