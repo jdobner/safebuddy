@@ -13,8 +13,11 @@ Create a safe environment for using a supervised PC
  - Must be configurable remotely
 	 - Local config only used to do initial connection
  - UI must be written in a web fmk
+
+### Storage
+ - Use Google Photos or Drive?
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODY4MjQ5MDNdfQ==
+eyJoaXN0b3J5IjpbLTE2MDg5NzIzMywtMTI4NjgyNDkwM119
 -->
