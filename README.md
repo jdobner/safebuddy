@@ -29,8 +29,12 @@ Create a safe environment for using a supervised PC
 
 ## Features
 - SSO with Google, Facebook
-- 
+- Liveness detection
+- Circumvention detection
+
+## - Proxy support
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDI1OTYzMTMsMTkwNzE0MDM2NywtMT
-YwODk3MjMzLC0xMjg2ODI0OTAzXX0=
+eyJoaXN0b3J5IjpbMTAwMTA4NDUyOSwxOTA3MTQwMzY3LC0xNj
+A4OTcyMzMsLTEyODY4MjQ5MDNdfQ==
 -->
