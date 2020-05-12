@@ -34,9 +34,13 @@ Create a safe environment for using a supervised PC
 - Circumvention detection
 - Proxy support?
 - Support Multiple screens
-- D
+- Detect "locked"
+- Detect stable screen with z
+
+## Future
+
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEyMjUxNjE4LDE5MDcxNDAzNjcsLTE2MD
-g5NzIzMywtMTI4NjgyNDkwM119
+eyJoaXN0b3J5IjpbLTYyMTY4NTUyNywxOTA3MTQwMzY3LC0xNj
+A4OTcyMzMsLTEyODY4MjQ5MDNdfQ==
 -->
