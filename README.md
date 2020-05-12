@@ -25,14 +25,18 @@ Create a safe environment for using a supervised PC
  - Should we create a movie?
  - Retention / cleanup
  ### Client
- - Each client uniquely identified
+ - Each client uniquely identified with a token of sorts
 
 ## Features
+- Auto Update
 - SSO with Google, Facebook
 - Liveness detection
 - Circumvention detection
-- Proxy support
+- Proxy support?
+- Support Multiple screens
+- D
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzIwNDg1NjUsMTkwNzE0MDM2NywtMT
-YwODk3MjMzLC0xMjg2ODI0OTAzXX0=
+eyJoaXN0b3J5IjpbMzEyMjUxNjE4LDE5MDcxNDAzNjcsLTE2MD
+g5NzIzMywtMTI4NjgyNDkwM119
 -->
