@@ -4,7 +4,9 @@
 Create a safe environment for using a supervised PC
 
 ## What it does
-- Take
+- Takes a screenshot every 30-60 seconds
+- Allows someone in a supervisr role to view
+- Intended to allow parents to ensure safety of children's' online activities
 
 ## Requirements
 
@@ -14,5 +16,5 @@ Create a safe environment for using a supervised PC
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMzczNTg1OV19
+eyJoaXN0b3J5IjpbLTEzNzIwODU0OTBdfQ==
 -->
