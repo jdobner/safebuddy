@@ -36,12 +36,14 @@ Create a safe environment for using a supervised PC
 - Support Multiple screens
 - Detect "locked"
 - Detect stable screen with zero changes
+- Supervisor dashboard accessible from anywhere via web-based console
+- 
 
 ## Future
 - Detect stable screen with near-zero changes
 
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1OTI2NDI1MSwxOTA3MTQwMzY3LC0xNj
+eyJoaXN0b3J5IjpbMTU2MzU4NTYyNywxOTA3MTQwMzY3LC0xNj
 A4OTcyMzMsLTEyODY4MjQ5MDNdfQ==
 -->
