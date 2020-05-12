@@ -16,8 +16,12 @@ Create a safe environment for using a supervised PC
 
 ### Storage
  - Use Google Photos or Drive?
+ - Compression
+ - Should we create a movie?
+ - 
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDg5NzIzMywtMTI4NjgyNDkwM119
+eyJoaXN0b3J5IjpbLTg1MTQxODczLC0xNjA4OTcyMzMsLTEyOD
+Y4MjQ5MDNdfQ==
 -->
