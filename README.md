@@ -24,6 +24,8 @@ Create a safe environment for using a supervised PC
  - Compression
  - Should we create a movie?
  - Retention / cleanup
+- Detect "locked"
+- Detect stable screen with zero changes
  ### Client
  - Each client uniquely identified with a token of sorts
 
@@ -34,8 +36,6 @@ Create a safe environment for using a supervised PC
 - Circumvention detection
 - Proxy support?
 - Support Multiple screens
-- Detect "locked"
-- Detect stable screen with zero changes
 - Supervisor dashboard accessible from anywhere via web-based console
 - 
 
@@ -44,6 +44,6 @@ Create a safe environment for using a supervised PC
 
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NzQ4MTcxOCwxNTYzNTg1NjI3LDE5MD
-cxNDAzNjcsLTE2MDg5NzIzMywtMTI4NjgyNDkwM119
+eyJoaXN0b3J5IjpbLTk4NTQwMDgyLDE1NjM1ODU2MjcsMTkwNz
+E0MDM2NywtMTYwODk3MjMzLC0xMjg2ODI0OTAzXX0=
 -->
