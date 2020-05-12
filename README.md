@@ -14,20 +14,17 @@ Create a safe environment for using a supervised PC
 	 - Local config only used to do initial connection
  - UI must be written in a web fmk
 
-### Storage
- - Use Google Photos or Drive?
- - Compression
- - Should we create a movie?
- - Retention / cleanup
- - 
-
 ## Architecture
 ### Server
 - Language: go
 - Possibility to use Lambda?
 - How would files upload to image storage
-
+### Storage
+ - Use Google Photos or Drive?
+ - Compression
+ - Should we create a movie?
+ - Retention / cleanup
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExOTk1NzI4MSwxOTA3MTQwMzY3LC0xNj
+eyJoaXN0b3J5IjpbMTI2MTQ1NjcxOCwxOTA3MTQwMzY3LC0xNj
 A4OTcyMzMsLTEyODY4MjQ5MDNdfQ==
 -->
