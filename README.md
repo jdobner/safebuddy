@@ -18,10 +18,15 @@ Create a safe environment for using a supervised PC
  - Use Google Photos or Drive?
  - Compression
  - Should we create a movie?
- - 
+ - Retention / cleanup
  - 
 
+## Architecture
+### Server
+- Language: go
+- 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MTQxODczLC0xNjA4OTcyMzMsLTEyOD
-Y4MjQ5MDNdfQ==
+eyJoaXN0b3J5IjpbMTkwNzE0MDM2NywtMTYwODk3MjMzLC0xMj
+g2ODI0OTAzXX0=
 -->
