@@ -28,8 +28,9 @@ Create a safe environment for using a supervised PC
  - Each client uniquely identified
 
 ## Features
+- SSO with Google, Facebook
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ1MDMwNTQwLDE5MDcxNDAzNjcsLTE2MD
-g5NzIzMywtMTI4NjgyNDkwM119
+eyJoaXN0b3J5IjpbLTExNDI1OTYzMTMsMTkwNzE0MDM2NywtMT
+YwODk3MjMzLC0xMjg2ODI0OTAzXX0=
 -->
