@@ -24,9 +24,10 @@ Create a safe environment for using a supervised PC
 ## Architecture
 ### Server
 - Language: go
-- 
+- Possibility to use Lambda?
+- How would files upload to image storage
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNzE0MDM2NywtMTYwODk3MjMzLC0xMj
-g2ODI0OTAzXX0=
+eyJoaXN0b3J5IjpbMjExOTk1NzI4MSwxOTA3MTQwMzY3LC0xNj
+A4OTcyMzMsLTEyODY4MjQ5MDNdfQ==
 -->
