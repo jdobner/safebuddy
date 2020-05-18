@@ -3,15 +3,18 @@ package main
 import (
 	"fmt"
 
-	"github.com/golang/glog"
+	"github.com/golang/protobuf/proto"
 )
 
 func main() {
-	SayHello()
+	sayHello()
 }
 
-func SayHello() {
+func sayHello() {
 	a := fmt.Sprintf("jj %v JJ", "hh")
 	fmt.Println(a)
-	glog.Error("Testing")
+	b := proto.Float32(22)
+	fmt.Println(b)
+	sayhi()
+
 }
