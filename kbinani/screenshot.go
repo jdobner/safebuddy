@@ -1,19 +1,23 @@
-package notmain
+package main
 
 import (
 	"fmt"
 	"image"
 	"image/png"
+	"log"
 	"os"
+	"path/filepath"
 
 	"github.com/kbinani/screenshot"
 )
 
 // save *image.RGBA to filePath with PNG format.
-func save(img *image.RGBA, filePath string) {
-	file, err := os.Create(filePath)
+func save(img *image.RGBA, fileName string) {
+	fileName = filepath.Join(os.TempDir(), fileName)
+	log.Println("Saving to ", fileName)
+	file, err := os.Create(fileName)
 	if err != nil {
-		panic(err)
+		log.Panic(err)
 	}
 	defer file.Close()
 	png.Encode(file, img)
@@ -37,6 +41,7 @@ func main() {
 			panic(err)
 		}
 		fileName := fmt.Sprintf("%d_%dx%d.png", i, bounds.Dx(), bounds.Dy())
+
 		save(img, fileName)
 
 		fmt.Printf("#%d : %v \"%s\"\n", i, bounds, fileName)
