@@ -7,6 +7,7 @@ import (
 	"log"
 	"os"
 	"path/filepath"
+	"time"
 
 	"github.com/kbinani/screenshot"
 )
@@ -24,10 +25,17 @@ func save(img *image.RGBA, fileName string) {
 }
 
 func main() {
+	capture(4)
+}
+
+func capture(delay int32) {
+	log.Println("slleping for ", delay)
+	time.Sleep(4 * time.Second)
 	// Capture each displays.
 	n := screenshot.NumActiveDisplays()
+	log.Println("Number of screens: ", n)
 	if n <= 0 {
-		panic("Active display not found")
+		log.Panic("Active display not found")
 	}
 
 	var all image.Rectangle = image.Rect(0, 0, 0, 0)
