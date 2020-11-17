@@ -22,9 +22,9 @@ Create a safe environment for using a supervised PC
 ### Image Storage
  - Use Google Photos or Drive?
  - Compression
- - Should we create a movie?
- - Retention / cleanup
+ - images only, not movies 
 - Detect "locked"
+-- Do I need to?
 - Detect stable screen with zero changes
  ### Client
  - Each client uniquely identified with a token of sorts
@@ -39,8 +39,15 @@ Create a safe environment for using a supervised PC
 - Supervisor dashboard accessible from anywhere via web-based console
 - 
 
+## Retention
+- Phase 0 - none
+- Phase 1 - simple (60 days)
+- Phase 2 - configurable
+
 ## Future
 - Detect stable screen with near-zero changes
+
+
 
 - 
 <!--stackedit_data:
